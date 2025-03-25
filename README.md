@@ -14,7 +14,6 @@
    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-0000FF?&style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
    <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-FF4500?style=for-the-badge&logo=node.js&logoColor=white" />
    <img align="center" alt="Express.JS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
