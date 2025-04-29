@@ -1,9 +1,11 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=165ef0&height=120&section=header"/> 
  
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joaofpedro1612&show_icons=true&count_private=true&hide_border=true&title_color=165ef0&icon_color=ffffff&text_color=165ef0&bg_color=0d1117" alt="João Pedro github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joaofpedro1612&show_icons=true&count_private=true&hide_border=true&title_color=f9f9f9&icon_color=66cd7a&text_color=9f9f9f&bg_color=151515&" alt="João Pedro github stats" /> 
 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaofpedro1612&layout=compact&hide_border=true&title_color=165ef0&text_color=165ef0&bg_color=0d1117" />
+
+##
 
 <div align="center" style="display: inline_block">
    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=white" />
